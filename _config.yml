@@ -1,0 +1,4 @@
+theme: minima
+title: Claude Chats
+description: Conversational mission of the Stellar Nexus
+include: ["assets/css/lcars.css"]
